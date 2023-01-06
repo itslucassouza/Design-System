@@ -1,6 +1,6 @@
 import { StoryObj, Meta} from '@storybook/react'
  
-import { Text, TextProps } from '@ignite-ui/react'
+import { Text, TextProps } from '@itslucassouza-dev/react'
 import React from 'react'
 
 export default {

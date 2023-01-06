@@ -1,7 +1,7 @@
 import React from 'react'
 import { StoryObj, Meta} from '@storybook/react'
  
-import { Box, Text, Checkbox, CheckboxProps } from '@ignite-ui/react'
+import { Box, Text, Checkbox, CheckboxProps } from '@itslucassouza-dev/react'
 
 export default {
   title: 'form/Checkbox',

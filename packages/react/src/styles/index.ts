@@ -7,7 +7,7 @@ import {
   radii, 
   space 
   } 
-   from '@ignite-ui/tokens'
+   from '@itslucassouza-dev/tokens'
 import { createStitches, defaultThemeMap } from '@stitches/react'
 
 

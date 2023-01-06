@@ -1,7 +1,7 @@
 import React from 'react'
 import { StoryObj, Meta} from '@storybook/react'
  
-import { Avatar, AvatarProps } from '@ignite-ui/react'
+import { Avatar, AvatarProps } from '@itslucassouza-dev/react'
 
 export default {
   title: 'Data display/Avatar',
