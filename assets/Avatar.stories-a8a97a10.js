@@ -1,0 +1,2 @@
+import{A as t}from"./index-ccad8c33.js";import"./index-34e51894.js";import"./es.object.get-own-property-descriptor-64192e07.js";import"./index-75cd1920.js";import"./jsx-runtime-da4cfb3b.js";const c={title:"Data display/Avatar",component:t,args:{src:"https://github.com/itslucassouza.png",alt:"Lucas Souza"},argTypes:{src:{control:{type:"text"}}}},p={},m={args:{src:void 0}},e=["Primary","WithFallback"];export{p as Primary,m as WithFallback,e as __namedExportsOrder,c as default};
+//# sourceMappingURL=Avatar.stories-a8a97a10.js.map
