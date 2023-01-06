@@ -14,6 +14,7 @@ export function ColorsGrid() {
           fontFamily: 'monospace', 
           color: getContrast(color, '#FFF') < 3.5 ? '#000' : '#FFF'
           }}>
+            
         <strong>${key}</strong>
         <span>{color}</span>
         </div>
