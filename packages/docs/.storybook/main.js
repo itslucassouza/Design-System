@@ -15,5 +15,12 @@ module.exports = {
   },
   "features": {
     "storyStoreV7": true
+  },
+  viteFinal: (congif, { configType}) => {
+    if(configType === 'PRODUCTION') {
+      congif.base = '/Design-System/'
+    }
+
+    return config
   }
 }
